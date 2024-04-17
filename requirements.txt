@@ -1,0 +1,3 @@
+gradio==3.50.2
+oci==2.125.3
+python-dotenv==1.0.1
